@@ -9,3 +9,7 @@ Simple Fuctionalities through unity C# scripts
  1. [Pie Chart Animation](https://github.com/ramyaa13/Unity-Useful-Functionalities-Scripts/blob/main/UI/PieChart.cs)
  2. [Start Ration Animation](https://github.com/ramyaa13/Unity-Useful-Functionalities-Scripts/blob/main/UI/StartRating.cs)
  3. [Panel Animation - Open and Close](https://github.com/ramyaa13/Unity-Useful-Functionalities-Scripts/blob/master/UI/PanelAnimation.cs)
+
+
+### VIDEO
+ 1. [Video Player Seekbar Controll](https://github.com/ramyaa13/Unity-Useful-Functionalities-Scripts/blob/master/Video/VideoSeekbarController.cs)
