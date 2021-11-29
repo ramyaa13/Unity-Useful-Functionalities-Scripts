@@ -1,8 +1,12 @@
 # Unity-Useful-Functionalities-Scripts
 Simple Fuctionalities through unity C# scripts
 
+### SINGLETON
+ 1. [Singleton Class](https://github.com/ramyaa13/Unity-Useful-Functionalities-Scripts/blob/master/Basic/Singleton.cs)
+
 ### BASIC
  1. [Play and Pause the Game in runtime](https://github.com/ramyaa13/Unity-Useful-Functionalities-Scripts/blob/main/Basic/PlayPause.cs)
+ 2. [Splash Screen](https://github.com/ramyaa13/Unity-Useful-Functionalities-Scripts/blob/master/Basic/SplashScript.cs)
 
 
 ### UI
