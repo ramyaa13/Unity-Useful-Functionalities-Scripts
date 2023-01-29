@@ -17,3 +17,8 @@ Simple Fuctionalities through unity C# scripts
 
 ### VIDEO
  1. [Video Player Seekbar Controll](https://github.com/ramyaa13/Unity-Useful-Functionalities-Scripts/blob/master/Video/VideoSeekbarController.cs)
+ 2. [Load Scene after Video ends](https://github.com/ramyaa13/Unity-Useful-Functionalities-Scripts/blob/master/Video/LoadSceneAfterVideoEnded.cs)
+ 3. [Display Video Time in UI](https://github.com/ramyaa13/Unity-Useful-Functionalities-Scripts/blob/master/Video/VideoTime.cs)
+ 
+ ### AUDIO
+ 1. [Play Background Music throught the Game](https://github.com/ramyaa13/Unity-Useful-Functionalities-Scripts/blob/master/Video/BGSoundScript.cs)
